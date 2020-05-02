@@ -10,7 +10,9 @@ steps :
 * Then click on **Credentials -> Create Credentials -> OAuth Client ID**
 
 Name: google-auth-demo
-Authorized Javascript Origins: https://yourwebsite.com 
+
+Authorized Javascript Origins: https://yourwebsite.com
+
 Authorized Redirect URIs: https://yourwebsite.com/oauthcallback
 
 
