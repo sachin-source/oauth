@@ -1,0 +1,16 @@
+{
+  "name": "withbackend",
+  "version": "1.0.0",
+  "description": "sample google oauth code to get email-id of the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sachin yashasvasin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^49.0.0",
+    "request": "^2.88.2"
+  }
+}
