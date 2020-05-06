@@ -9,7 +9,6 @@ const {
     google
 } = require('googleapis');
 
-
 const googleConfig = {
     clientId: 'xxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com',
     clientSecret: 'yyyyyyyyyyyyyyyyyyyyyyy',
